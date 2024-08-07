@@ -1,2 +1,2 @@
-# Tarea10_AMAguilera_EMarquez
-Tarea 10 de Simulación de Procesos Financieros - Ing. Financiera ITESO
+# HW10_AMAguilera_EMarquez
+Financial Process Simulation Task 10 - ITESO Financial Engineering
